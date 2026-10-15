@@ -17,6 +17,26 @@
 </div>
 
 ---
+
+### 1. Clone Repositori<br>
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4.git]. <br>
+
+### 2. Masuk ke Folder Proyek<br>
+cd 4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4/LaraPress. <br>
+
+### 3. Install Dependensi & Set Up Environment <br>
+composer install<br>
+npm install<br>
+cp .env.example .env<br>
+php artisan key:generate<br>
+php artisan migrate<br>
+
+### 4. Jalankan Aplikasi<br>
+npm run dev<br>
+php artisan serve<br>
+
+
+---
 ## 📑 Daftar Isi
 
 - [🎯 Tentang Aplikasi](#-tentang-aplikasi)
@@ -26,12 +46,13 @@
 - [✨ Fitur Utama](#-fitur-utama)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📸 Hasil Screenshot Tampilan Website LaraPress](#-hasil-screenshot-tampilan-website-larapress)
-- [⚙️ Cara Menjalankan Proyek](#️-cara-menjalankan-proyek)
 
 ---
+
 ## 🎯 Tentang Aplikasi
 
 **LaraPress** pada Praktikum 4 ini dikembangkan berbasis **Laravel 11** dan **Laravel Breeze** untuk mengimplementasikan sistem autentikasi pengguna (*Register, Login, Dashboard, Profile*) serta mekanisme keamanan proteksi rute CRUD menggunakan middleware `auth`.
+
 
 ---
 
@@ -111,18 +132,4 @@ Aplikasi web ini memiliki beberapa halaman utama dan rute terproteksi:
 
 
 ---
-## ⚙️ Cara Menjalankan Proyek
 
-1. Clone Repositori<br>
-git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4.git]
-2. Masuk ke Folder Proyek<br>
-cd 4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4/LaraPress
-3. Install Dependensi & Set Up Environment <br>
-composer install<br>
-npm install<br>
-cp .env.example .env<br>
-php artisan key:generate<br>
-php artisan migrate<br>
-4. Jalankan Aplikasi<br>
-npm run dev<br>
-php artisan serve<br>
