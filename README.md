@@ -105,7 +105,8 @@ Aplikasi web ini memiliki beberapa halaman utama dan rute terproteksi:
 ---
 
 ### 4. Halaman Profile (`/profile`)
-<img width="1600" height="577" alt="Profile" src="https://github.com/user-attachments/assets/8ca4a4f9-e68c-407a-8eda-a657e346a0ff" />
+<img width="934" height="497" alt="PROFIL REV" src="https://github.com/user-attachments/assets/43e10457-4f2b-4afa-878d-909a09602dd5" />
+
 <img width="1600" height="793" alt="Profile2" src="https://github.com/user-attachments/assets/ed8b0ee4-e150-43c4-985c-725c2f1705e8" />
 
 
