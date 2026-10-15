@@ -114,14 +114,15 @@ Aplikasi web ini memiliki beberapa halaman utama dan rute terproteksi:
 ## ⚙️ Cara Menjalankan Proyek
 
 1. Clone Repositori<br>
-git clone [https://github.com/KholilIrsyadMarwan/4524210110_KHOLILIRSYADMARWAN_PBW-A-Praktikum4.git].
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4.git]
 2. Masuk ke Folder Proyek<br>
-cd 4524210110_KHOLILIRSYADMARWAN_PBW-A-Praktikum4<br>
+cd 4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum4/LaraPress
 3. Install Dependensi & Set Up Environment <br>
 composer install<br>
 npm install<br>
 cp .env.example .env<br>
 php artisan key:generate<br>
+php artisan migrate<br>
 4. Jalankan Aplikasi<br>
 npm run dev<br>
 php artisan serve<br>
