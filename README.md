@@ -45,8 +45,7 @@
 
 ### 1. Mengakses URL Pembuatan Postingan Baru (`http://127.0.0.1:8000/posts/create`)
 Ketika mencoba mengakses URL pembuatan postingan baru (`http://127.0.0.1:8000/posts/create`) dalam kondisi belum terotentikasi (logout), middleware Laravel secara otomatis mengalihkan pengguna ke halaman login (`http://127.0.0.1:8000/login`).
-
-<img width="1600" height="757" alt="Login Baru" src="https://github.com/user-attachments/assets/ce27bcaa-0ce3-4669-91c0-4c9429f6474e" />
+<img width="1600" height="757" alt="Login Baru" src="https://github.com/user-attachments/assets/ea2d1ad0-1f55-42c1-9bb1-6bfe5d931fdf" />
 
 ---
 
@@ -93,23 +92,22 @@ Aplikasi web ini memiliki beberapa halaman utama dan rute terproteksi:
 ## 📸 Hasil Screenshot Tampilan Website LaraPress
 
 ### 1. Halaman Register (`/register`)
-<img width="1600" height="812" alt="Register" src="https://github.com/user-attachments/assets/2a30ad11-6ab2-4df2-861e-54a9b5a61377" />
-
+<img width="1600" height="812" alt="Register" src="https://github.com/user-attachments/assets/b4974053-03e7-48d2-8e20-c5849c81acb0" />
 ---
 
 ### 2. Halaman Login (`/login`)
-<img width="1600" height="757" alt="Login Baru" src="https://github.com/user-attachments/assets/a328efef-17ce-48f9-b6f6-13480169908a" />
-
+<img width="1600" height="757" alt="Login Baru" src="https://github.com/user-attachments/assets/84299f69-358a-4b33-aee4-e4ce80eda41d" />
 ---
 
 ### 3. Halaman Dashboard (`/dashboard`)
-<img width="1600" height="808" alt="Dashboard" src="https://github.com/user-attachments/assets/739deef4-a4b4-4b1a-984c-ede828d772db" />
+<img width="1600" height="808" alt="Dashboard" src="https://github.com/user-attachments/assets/1a23ee09-9cb8-472d-84af-0205efbf6b4c" />
 
 ---
 
 ### 4. Halaman Profile (`/profile`)
-<img width="1600" height="577" alt="Profile 1" src="https://github.com/user-attachments/assets/8fa6968c-7ec1-4ceb-80a2-26d700e6810d" /> <br>
-<img width="1600" height="793" alt="Profile 2" src="https://github.com/user-attachments/assets/4e90a463-fdc5-4cfe-8048-e48d56bfff15" />
+<img width="1600" height="577" alt="Profile" src="https://github.com/user-attachments/assets/8ca4a4f9-e68c-407a-8eda-a657e346a0ff" />
+<img width="1600" height="793" alt="Profile2" src="https://github.com/user-attachments/assets/ed8b0ee4-e150-43c4-985c-725c2f1705e8" />
+
 
 ---
 ## ⚙️ Cara Menjalankan Proyek
